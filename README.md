@@ -12,4 +12,13 @@ Proceso:
 Salida:
 - Resumen de los datos del estudiantes con su promedio
 
-Estudiante 
++ ------------------------------------------------ + 
+| Estudiante:  WENCESLAO ALEXANDER VILLA HERNANDEZ |
+| Grupo: 1A     Carrera: INGENUERUA INFORMÁTICA    |
+|                                                  |
+|      Asignatura:                   Calificación  |
+|      FUNDAMENTOS DE PROGRAMACIÓN        75       |
+|      MATEMÁTICAS DISCRETAS              85       |
++ ------------------------------------------------ +     
+|     Promedio:                          80        |
++ ------------------------------------------------ +      
